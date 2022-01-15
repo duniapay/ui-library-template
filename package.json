@@ -1,5 +1,5 @@
 {
-  "name": "storybook-tests-react",
+  "name": "ui-library-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
